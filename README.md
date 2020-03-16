@@ -1,6 +1,5 @@
-## Ana Cristina Turlea
 
-### Biography 
+## Biography 
 
 Ana is a Teaching Assistant in Computer Science at the [University of Bucharest](http://www.unibuc.ro), [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/), and a PhD student at the same faculty. 
 
@@ -15,7 +14,7 @@ Ana is a Teaching Assistant in Computer Science at the [University of Bucharest]
               <li> <a href="https://docs.google.com/document/d/1Ep3YttzHp8acYaZHJGpS7V8V36nXezygO3R1zBWrRqU/edit" class="text-dark" >CV </a> </li>
             </ul>
 
-### Personal Projects 
+## Personal Projects 
 
 __1. Course Evaluation System__
 
