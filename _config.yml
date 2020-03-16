@@ -3,3 +3,16 @@ email: ana.turlea@fmi.unibuc.ro
 description: "Personal Page"
 
 theme: jekyll-theme-slate
+
+
+# Site Author
+author:
+  name             : "Ana Cristina Turlea"
+  bio              : "Teaching Asistant in Computer Science"
+  location         : "Univesity of Bucharest"
+  googlescholar    : "https://scholar.google.ro/citations?user=RLQlf2MAAAAJ&hl=en"
+  email            : "ana.turlea@fmi.unibuc.ro"
+  researchgate     :  "https://www.researchgate.net/profile/Ana_Turlea" # example: "https://www.researchgate.net/profile/yourprofile"
+  github           : "ana-cristina"
+  linkedin         : "https://www.linkedin.com/in/turleaana/"
+  orcid            : "https://orcid.org/0000-0001-8624-9242"
