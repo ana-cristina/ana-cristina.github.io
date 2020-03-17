@@ -22,6 +22,8 @@ This project is meant to help the Faculty of Mathematics and Computer Science to
 
 The Github repository for this project is [here](https://github.com/ana-org/CourseEval)
 
+Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the copyright notice and the permission notice appear in all copies.
+
 
 ## Publications 
 
