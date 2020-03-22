@@ -1,7 +1,7 @@
 
 ## Biography 
 
-Ana is a Teaching Assistant in Computer Science at the [University of Bucharest](http://www.unibuc.ro), [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/), and a PhD student at the same faculty. 
+I am a Teaching Assistant in Computer Science at the [University of Bucharest](http://www.unibuc.ro), [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/), and a PhD student at the same faculty. 
 
   <ul>
               <li >Research interests:
