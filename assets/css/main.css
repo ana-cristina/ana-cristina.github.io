@@ -2145,7 +2145,7 @@ input, select, textarea {
 		font-size: 1em;
 		line-height: 1em;
 		list-style: none;
-		padding-left: 0;
+		/* padding-left: 0; */
 		margin-bottom: 0;
 	}
 
@@ -2213,8 +2213,8 @@ input, select, textarea {
 			}
 
 				#top .image {
-					width: 24em;
-					height: 24em;
+					width: 15em;
+					height: 15em;
 					margin: 0;
 				}
 
@@ -2232,7 +2232,8 @@ input, select, textarea {
 			}
 
 				#top .image {
-					margin: 0 auto 2em auto;
+					margin: 0 auto auto auto;
+					width: 10em;
 				}
 
 	}
@@ -2411,8 +2412,7 @@ input, select, textarea {
 			}
 
 				#top .image {
-					width: 15em;
-					height: 15em;
+					width: 10em;
 					margin-bottom: 0;
 				}
 
